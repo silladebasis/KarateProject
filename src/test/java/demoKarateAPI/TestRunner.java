@@ -1,8 +1,8 @@
-package examples.users;
+package demoKarateAPI;
 
 import com.intuit.karate.junit5.Karate;
 
-class UsersRunner {
+class TestRunner {
     
     @Karate.Test
     Karate testUsers() {

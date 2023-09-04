@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Rest Assured",
+        "body": "Fundamentals of rest assured",
+        "userId": 1
+    },
+    {
+        "title": "Karate Testing",
+        "body": "Karate Demo Practice",
+        "userId": 2
+    }
+]
